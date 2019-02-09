@@ -1,0 +1,17 @@
+# YogoVideo
+Tuyul Coin Yogo Video
+
+YogoVideo
+Jalanin di xampp atau termux
+
+Tutor get tk, token, uuid:
+1. Buka apknya, daftar/login
+2. Buka ssl capture atau semacamnya klik play
+3. buka apknya cari yang di minta
+
+Tutorial Termux:
+pkg install php
+termux-setup-storage
+cd /sdcard/YogoVideo
+php yogo.php
+
